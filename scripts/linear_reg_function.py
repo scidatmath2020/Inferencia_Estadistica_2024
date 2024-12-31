@@ -2,7 +2,7 @@
 """
 Created on Mon Dec 30 15:34:28 2024
 
-@author: Usuario
+@author: SciData
 """
 
 import pandas as pd
